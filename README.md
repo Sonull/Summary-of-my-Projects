@@ -3,7 +3,7 @@ Hi There! Welcome to my Git!
 For ease of reference I have summarised the names of all the projects I have done so far.
 
 # List of Projects
-* Sentiment Analysis on Yelp Data
+* **Sentiment Analysis on Yelp Data**
   * Language : Python
   * Technique : Logistic Regression Model, SVM, Random Forest
 * Predicting the presence of West Nile Virus in Chicago
