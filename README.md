@@ -38,6 +38,6 @@ For ease of reference I have summarised the names of all the projects I have don
   * Description: Visualization of gun violence incidents in United States of America in 2017 
   * Tool : Tableau
 * Analysis of Store Performance
- * Description: isualization of performance of a store 
- * Tool : Tableau
+  * Description: isualization of performance of a store 
+  * Tool : Tableau
 
