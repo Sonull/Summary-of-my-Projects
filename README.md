@@ -4,6 +4,7 @@ For ease of reference I have summarised the names of all the projects I have don
 
 # List of Projects
 * **Sentiment Analysis on Yelp Data**
+  https://github.com/Sonull/Sentiment-Analysis-on-Yelp-Reviews
   * Language : Python
   * Technique : Logistic Regression Model, SVM, Random Forest
 * **Predicting the presence of West Nile Virus in Chicago**
