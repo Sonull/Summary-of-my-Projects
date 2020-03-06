@@ -44,6 +44,10 @@ For ease of reference I have summarised the names of all the projects I have don
   * Repository : https://github.com/Sonull/Price-Prediction-using-Multivariate-Linear-Regression
   * Language : R
   * Technique: Multivariate Linear Regression
+* **Sentiment Analysis on Twitter Data**
+  * Repository : https://github.com/Sonull/Sentiment-Analysis-on-Twitter-Data
+  * Language : Python
+  * Technique : Logistic Regression Model
 * **Gun Violence in America**
   * Repository : https://github.com/Sonull/Gun-Violence-in-America
   * Description: Visualization of gun violence incidents in United States of America in 2017 
