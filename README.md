@@ -7,6 +7,10 @@ For ease of reference I have summarised the names of all the projects I have don
   * Repository : https://github.com/Sonull/Sentiment-Analysis-on-Yelp-Reviews
   * Language : Python
   * Technique : Logistic Regression Model, SVM, Random Forest
+* **Analysis of Tweets made during NBA 2018 Final - Game 3**
+  * Repository : https://github.com/Sonull/Analysis-of-Tweets-made-during-NBA-2018-Finals
+  * Language : R
+  * Technique : Sentiment Analysis, Social Network Analysis
 * **Predicting the presence of West Nile Virus in Chicago**
   * Repository : https://github.com/Sonull/West-Nile-Virus-in-Chicago
   * Language : Python
