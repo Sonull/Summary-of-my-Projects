@@ -61,3 +61,7 @@ For ease of reference I have summarised the names of all the projects I have don
   * Description: isualization of performance of a store 
   * Tool : Tableau
 
+*To be updated
+* **Propensity Score Matching**
+* **Time Series Analysis**
+* **Predictive Analysis**
