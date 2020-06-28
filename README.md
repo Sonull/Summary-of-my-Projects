@@ -1,6 +1,6 @@
 # Objective of the Repository
 Hi There! Welcome to my Git! 
-For ease of reference I have summarised the names of all the projects I have done so far.
+For ease of reference I have summarised the names of all the projects I have done so far. I have also shared the appropriate links so that you can check out the project you want to read about without any hassle. 
 
 # List of Projects
 * **Sentiment Analysis on Yelp Data**
